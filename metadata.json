@@ -1,0 +1,6 @@
+{
+  "name": "Social Browser",
+  "description": "An interactive web browser with search result comments, likes, and direct messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
